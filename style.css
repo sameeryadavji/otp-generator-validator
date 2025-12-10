@@ -6,6 +6,12 @@
 html, body {
   height: 100%;
   width:100% ;
+font-family: "Roboto", sans-serif;
+
+
+
+
+
 }
 main{
     width: 100%;
@@ -22,6 +28,9 @@ main{
     border-radius: 20px;
     padding: 3%;
     border: 1px solid rgb(67, 188, 67);
+}
+h1{
+    font-size: 30px;
 }
 button#gernarate-otp{
     padding: 10px 20px;
